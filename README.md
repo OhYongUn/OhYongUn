@@ -2,7 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&height=150&section=header&text=YongUn's%GitHub&fontColor=ffffff&color=black&animation=fadeIn)
 </br>
 </br>
-####  :wave: Welcome my github profile !
+<div  align="center">
+   <h3>  :wave: JAVA 백엔드 주니어개발자 오용언입니다
+    </h3>
+    
+</div>
+
 </br>
 </br>
 
